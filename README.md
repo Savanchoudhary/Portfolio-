@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Anubhav Mishra — Advanced Portfolio
 
 A responsive, single-page portfolio for Embedded Systems, IoT, Robotics and Cyber Security.
@@ -61,3 +62,7 @@ Just open `index.html` in a browser, or run a simple local server:
 python3 -m http.server 8000
 ```
 Then visit `http://localhost:8000`.
+=======
+# Portfolio-
+My Portfolio 
+>>>>>>> 13430fe4dcf1ab3a7e71aebfe1935ad80e65da22
